@@ -325,7 +325,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   _addressableToSpawn:
-    m_AssetGUID: 
+    m_AssetGUID: 11a7919753f427940b1d7ccf6d35561f
     m_SubObjectName: 
     m_SubObjectType: 
     m_SubObjectGUID: 
